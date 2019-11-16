@@ -1,0 +1,152 @@
+PLACA MAE ASROCK B450M STEEL LEGEND DDR4 SOCKET AM4 CHIPSET AMD B450
+
+
+//https://www.pichau.com.br/placa-mae-asrock-b450m-steel-legend-ddr4-socket-am4-chipset-amd-b450
+
+DETALHES
+Especificações
+
+Marca
+AsRock
+
+Modelo
+B450M Steel Legend DDR4
+
+CPU
+Soquete AMD AM4
+Design Digi Power
+6 design de fase de energia
+
+Chipset
+AMD Promontory B450
+
+Memória
+Tecnologia de Memória Dual Channel DDR4
+4 Slots DDR4 DIMM
+CPUs AMD Ryzen (Pinnacle Ridge) suportam DDR4 3533+ (OC) / 3200 (OC) / 2933 (OC) / 2667/2400/2133 ECC e não-ECC, memória sem buffer *
+CPUs da série AMD Ryzen (Summit Ridge) suportam DDR4 3466+ (OC) / 3200 (OC) / 2933 (OC) / 2667/2400/2133 ECC e não-ECC, memória sem buffer *
+AMD As CPUs da série Ryzen (Raven Ridge) suportam memória sem buffer DDR4 3466+ (OC) / 3200 (OC) / 2933/2667/2400/2133
+Máx. capacidade de memória do sistema: 64GB
+Contato de ouro de 15µ em slots de DIMM
+* Para CPUs da série Ryzen (Raven Ridge), o ECC é suportado apenas com CPUs PRO.
+
+Bios
+128Mb AMI UEFI Legal BIOS com suporte a GUI multilíngue
+Suporta "Plug and Play"
+Acordos de ativação de conformidade com ACPI 5.1 - Suporta jumperfree
+Suporte a SMBIOS 2.3
+DRAM Multi-ajuste de tensão
+
+Gráficos
+Gráficos integrados da série AMD Radeon ™ Vega na série Ryzen APU *
+DirectX 12, Pixel Shader 5.0
+Padrão de memória compartilhada 2GB. A memória compartilhada máxima suporta até 16 GB. * *
+Dual saída de gráficos: Suporte HDMI e DisplayPort 1.2 portas por controladores de imagem independentes
+Suporta HDMI 1.4 com máx. resolução até 4K x 2K (4096x2160) @ 24Hz / (3840x2160) @ 30Hz
+Suporta DisplayPort 1.2 com máx. resolução de até 4K x 2K (4096x2160) @ 60Hz
+Suporta Auto Lip Sync, Deep Colour (12bpc), xvYCC e HBR (High Bit Rate Audio) com porta HDMI 1.4 (compatível com monitor HDMI é necessário)
+Suporta HDCP 1.4 com HDMI 1.4 e Portas DisplayPort 1.2
+Suporta a reprodução de 4K Ultra HD (UHD) com portas HDMI 1.4 e DisplayPort 1.2
+
+Áudio
+7.1 CH áudio HD com Content Protection (Realtek ALC892 Audio Codec)
+Premium Blu-ray de áudio de apoio
+Suportes Proteção contra Surtos
+Nichicon Belas Áudio Série Ouro Caps
+PCB Isolar Blindagem
+Camadas PCB individuais para R / L de áudio Canal
+Gold Audio Jacks
+
+LAN
+PCIE x1 Gigabit LAN 10/100/1000 Mb / s
+Realtek RTL8111H
+Suporta Wake-On-LAN
+Suporta Proteção Lightning / ESD
+Suporta Eficiência Energética Ethernet 802.3az
+Suporta PXE
+
+Slots
+CPUs da série AMD Ryzen (Summit Ridge e Pinnacle Ridge)
+1 x Slot PCI Express 3.0 x16 (modo PCIE2: x16)
+1 x Slot PCI Express 2.0 x16 (PCIE3: modo x4)
+CPUs AMD Ryzen (Raven Ridge)
+1 x Slot PCI Express 3.0 x16 (modo PCIE2: x8) (Se você usar o APU série Athlon 2xxGE, o slot PCIE2 funcionará no modo x4).
+1 x slot PCI Express 2.0 x16 (PCIE3: modo x4)
+CPUs AMD Athlon série
+1 x Slot PCI Express 3.0 x16 (PCIE2: modo x4)
+1 x Slot PCI Express 2.0 x16 (PCIE3: modo x4)
+1 x Slot PCI Express 2.0 x1
+Suporta AMD Quad CrossFireX ™ e CrossFireX ™
+
+Armazenamento
+4 x Conectores SATA3 de 6,0 Gb / s, suporte a RAID (RAID 0, RAID 1 e RAID 10), NCQ, AHCI e Hot Plug
+1 x Soquete Ultra M.2 (M2_1), suporta o tipo de chave M 2242/2260 / 2280 Módulo M.2 PCI Express até Gen3 x4 (32 Gb / s) (com Summit Summit, Raven Ridge e Pinnacle Ridge) ou Gen3 x2 (16 Gb / s) (com APU da série Athlon 2xxGE e Raven Ridge 2)
+1 x Tomada M.2 (M2_2), suporta o tipo M Key 2230/2242/2260/2280 M.2 SATA3 módulo de 6,0 Gb / s
+
+Conectores
+1 x Conector de porta COM
+1 x Conector de TPM
+1 x Conector de intrusão de chassi
+1 x LED de alimentação e Conector de alto-falante
+1 x Conector de LED RGB
+1 x Conector de LED endereçável
+1 x AMD Fan LED Header
+1 x Conector da Ventoinha da CPU (4 pinos)
+1 x Conector da Ventoinha da Bomba de Água / CPU (4 pinos) (Controle de Velocidade do Ventoinha Inteligente)
+3 x Conectores da Ventoinha da Bomba de Água / Chassis ( 4 pinos) (Controle Inteligente da Velocidade do Ventoinha)
+1 x Conector de alimentação ATX de 24 pinos
+1 x Conector de alimentação de 8 pinos 12V
+1 x Conector de áudio do painel frontal
+2 x USB 2.0 Headers (suporte 4 portas USB 2.0) (Suporta proteção ESD)
+1 x USB 3.1 Gen1 Header (Suporta 2 portas USB 3.1 Gen1) (Suporta proteção ESD)
+
+Painel Traseiro
+1 x Porta PS / 2 para mouse / teclado
+1 x Porta HDMI
+1 x DisplayPort 1.2
+1 x Porta de saída SPDIF óptica
+2 x Portas USB 2.0 (suporta proteção ESD)
+1 x Porta USB 3.1 Gen2 tipo-A (10 Gb / s) (Suporta proteção ESD)
+1 x Porta USB 3.1 Gen2 tipo C (10 Gb / s) (suporta proteção ESD)
+4 x Portas USB 3.1 Gen1 (suporta proteção ESD)
+1 x Porta RJ-45 LAN com LED (ACT / LINK LED e SPEED LED)
+Entradas de áudio HD: Alto-falante traseiro / central / baixo / entrada de linha / alto-falante frontal / microfone (Gold Audio Jacks)
+
+Software e UEFI
+Software
+ASRock A-Tuning
+ASRock Polychrome SYNC
+ASRock XFast LAN
+UEFI
+ASRock Full HD UEFI
+ASRock Instant Flash
+Instalador ASRock Easy RAID
+
+Monitor de Hardware
+Sensores de Temperatura: CPU, CPU / Bomba de Água, Chassis / Ventoinhas de Bomba de Água
+Tacômetro de Ventoinha: CPU, CPU / Bomba de Água, Ventoinhas de Chassi / Bomba de Água
+Ventoinha Silencioso (Ajuste automático da velocidade do Ventoinha pelo CPU): CPU, CPU / Ventoinhas da bomba de água, chassi / bomba de água
+Ventoinha Controle de velocidade múltipla: CPU, CPU / Bomba de água, Ventoinhas da Chassi / Bomba de Água
+Detecção CASE OPEN
+Monitoramento de tensão: + 12V, + 5V, + 3.3V, Vcore
+
+Recursos Únicos
+ASRock USB 3.1 Gen2
+Porta tipo ASRock USB 3.1 Gen2 (10 Gb / s)
+Porta ASRock USB 3.1 Gen2 tipo C (10 Gb / s)
+Super liga ASRock
+Dissipador de calor em liga de alumínio XXL
+Afogador de potência 60A
+Nichicon 12K bonés pretos (100% Japão fez capacitores de polímeros condutores de alta qualidade)
+I / O Armadura
+Sapphire PCB preto
+high Density tecido vidro PCB
+2 onças de cobre PCB
+slot ASRock Aço
+ASRock Ultra M2 (PCIe Gen3 x4)
+ASRock pico total de Protecção ( para todas as portas USB, de áudio, LAN)
+ASRock Live Update e APP Shop
+AMD StoreMI
+
+Formato
+Micro ATX, 24.4 cm x 24.4 cm

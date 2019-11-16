@@ -1,0 +1,85 @@
+Marca
+MSI
+
+Modelo
+B450M PRO-M2 V2 DDR4
+
+Processador
+Suporta 1ª, 2ª e 3ª Gen AMD ® Ryzen ™ / Ryzen ™ com Radeon ™ Vega Gráficos / Gen 2 AMD ® Ryzen ™ com ™ gráficos Radeon e Athlon ™ com Radeon ™ Vega processadores gráficos desktop para soquete AM4
+
+Chipset
+Chipset AMD ® B450
+
+Memória
+2 x slots de memória DDR4, suportam até 32GB
+Suporta DDR4 1866/2133/2400/2667 MHz por JEDEC, e 2667/2800/2933/3000/3066/3200/3466 MHz pelo modo A-XMP OC 1
+Arquitetura de memória dual channel
+Suporta memória ECC UDIMM (modo não-ECC)
+Suporta memória UDIMM não-ECC
+
+Slots
+1 x slot PCIe 3.0 x16 (PCI_E1)
+1ª, 2ª e 3ª Geração AMD Ryzen ™ suportam o modo x16
+Ryzen ™ com gráficos Radeon ™ Vega e 2ª geração AMD Ryzen ™ com suporte a gráficos Radeon ™ x8
+Athlon ™ com Radeon ™ Vega Graphics suporta o modo x4
+2 x slots PCIe 2.0 x1
+
+Gráficos
+1 x porta VGA, suporta uma resolução máxima de 2048x1280 @ 60HZ
+1 x porta DVI-D, suporta uma resolução máxima de 1920x1200 @ 60Hz
+1 x porta HDMI ™, suporta uma resolução máxima de 4096x2160 @ 24Hz
+
+Armazenamento
+Chipset AMD ® B450
+4 x Portas SATA 6Gb / s
+Suporta RAID 0, RAID1 e RAID 10
+1 x M.2 slot (Key M)
+Suporta PCIe 3.0 x4 (1ª, 2ª e 3ª geração AMD Ryzen ™, Ryzen ™ com Radeon ™ Vega Graphics e 2ª geração AMD Ryzen ™ com Radeon ™ Graphics) ou PCIe 3.0 x2 (Athlon ™ com Radeon ™ Vega Graphics) e SATA 6Gb / s 2242/2260/2280 dispositivos de armazenamento
+
+USB
+Chipset AMD ® B450
+2 x Portas USB 3.1 Gen1 (SuperSpeed USB) através do conector interno USB 3.1 Gen1
+6 x Portas USB 2.0 (USB de alta velocidade) (2 portas no painel traseiro, 4 portas disponíveis através dos conectores USB internos)
+AMD ® processador
+4 x Portas USB tipo 1 (USB 1.1 SuperSpeed) no painel traseiro
+
+Áudio
+Codec Realtek ® ALC887
+Áudio de alta definição de 7.1 canais
+
+LAN
+1 x Controlador de LAN Gigabit Realtek ® 8111H
+
+Painel Interno
+1 x Conector de alimentação principal ATX de 24 pinos
+1 x Conector de alimentação ATX 12V de 8 pinos
+4 x Conectores SATA de 6 Gb / s
+2 x Conectores USB 2.0 (suporta mais 4 portas USB 2.0)
+1 x Conector USB 3.1 Gen1 (suporta 2 portas USB 3.1 Gen1 adicionais)
+1 x Conector de ventilador de CPU de 4 pinos
+1 x Conector do ventilador do sistema de 4 pinos
+1 x Conector de áudio do painel frontal
+2 x Conectores do painel frontal
+1 x Conector do módulo TPM
+1 x Conector de violação do chassi
+1 x Conector de porta serial
+1 x Conector de faixa de LED
+1 x Jumper Clear CMOS
+
+Painel Traseiro
+1 x Mouse
+1 x Porta VGA
+2 x USB 2.0
+1 x Porta LAN
+1 x Conectores de áudio HD
+1 x Teclado
+1 x Porta DVI-D
+1 x Porta HDMI
+4 x USB 3.1 Gen1
+
+Sistema Operacional
+Suporte para o Windows® 10
+Suporte de 64 bits para Windows® 7 de 64 bits
+
+Formato
+m-ATX, 24,4 x 20,6 cm

@@ -1,0 +1,183 @@
+Marca
+Asus
+
+Modelo
+ROG Crosshair VIII Hero DDR4
+
+Processador
+Soquete AMD AM4 3º e 2º AMD Ryzen ™ / 2ª e 1ª geração AMD Ryzen ™ com processadores gráficos Radeon ™ Vega
+
+Chipset
+AMD X570
+
+Memória
+Processadores AMD Ryzen ™ de 3ª geração
+4 x DIMM, máx. 128 GB, DDR4 4800 (OC) / 4600 (OC) / 4400 (OC) / 4266 (OC) / 4133 (OC) / 4000 (OC) / 3866 (OC) / 3733 (OC) / 3600 (OC) / 3466 ( OC) / 3400 (OC) /
+3200/3000/2933/2800/2666/2400/2133 MHz Memória sem buffer Memória processadores de segunda geração AMD Ryzen ™ de 2ª geração
+4 x DIMM, máx. Memória sem buffer de 128 GB, DDR4 3600 (OC) / 3466 (OC) / 3400 (OC) / 3200 (OC) / 3000 (OC) /
+2933/2800/2666/2400/2133 MHz sem buffer de segunda e primeira geração AMD Ryzen ™ Processadores gráficos Radeon ™ Vega
+4 x DIMM, máx. 128GB, DDR4 3200 (OC) / 3000 (OC) / 2933/2800/2666/2400/2133 MHz Memória sem buffer
+Arquitetura de memória de canal duplo Arquitetura
+ECC (modo ECC) O suporte à memória ECC (modo ECC) varia de acordo com a CPU.
+
+Multi-GPU
+Processadores AMD Ryzen ™ de 3ª e 2ª geração suportam a
+tecnologia NVIDIA® 2-Way SLI®
+Suporta a tecnologia AMD 3-Way CrossFireX ™ Tecnologia
+AMD Ryzen ™ de 2ª e 1ª geração com processadores gráficos Radeon ™ Vega
+Suporta a tecnologia AMD 2-Way CrossFireX ™
+
+Slots de Expansão
+Processadores AMD Ryzen ™ de 3ª geração
+2 x PCIe 4.0 x16 (x16 ou x8 duplo)
+Processadores AMD Ryzen ™ de 2ª geração
+2 x PCIe 3.0 x16 (x16 ou x8 duplo)
+AMD Ryzen ™ de 2ª e 1ª geração AMD Ryzen ™ de 2ª geração com processadores gráficos Radeon ™ Vega
+1 x PCIe 3.0 x16 (modo x8)
+chipset AMD X570
+1 x PCIe 4.0 x16
+1 x PCIe 4.0 x1
+
+Armazenamento
+Processadores AMD Ryzen ™ de 3ª geração:
+1 x soquete M.2_1 3, com chave M, tipo 2242/2260/2280 (modos PCIE 4.0 x4 e SATA) suportam dispositivos de armazenamento de
+segunda geração AMD Ryzen ™ / 2ª e 1ª geração AMD Ryzen ™ com Processadores gráficos Radeon ™ Vega:
+1 x soquete M.2_1 3, com chave M, suporte a dispositivos de armazenamento tipo 2242/2260/2280 (modo SATA e PCIE 3.0 x 4)
+chipset AMD X570:
+1 x Soquete M.2_2 3, com M Os dispositivos de armazenamento Key, Type 2242/2260/2280/22110 (modos PCIE 4.0 x4 e SATA) suportam
+8 x Porta (s) SATA 6Gb / s,
+Raid de suporte 0, 1, 10
+
+LAN
+Intel® I211-AT
+Realtek® RTL8125-CG LAN 2.5G
+ASUS LAN Guard
+ROG Tecnologia GameFirst
+
+Áudio
+CODEC de áudio de alta definição e 8 canais ROG SupremeFX
+- Sensor de impedância para saídas de fones de ouvido dianteiros e traseiros
+- Suporta: detecção de Jack, multitransmissão, retrasagem de Jack no painel frontal
+- Saída de reprodução estéreo SNR de 120 dB de alta qualidade e entrada de gravação SNR de 113 dB
+- SupremeFX Shielding Technology
+- ESS® ES9023P
+- Suporta até 32 bits / 192kHz
+Recurso de áudio:
+- Sonic Studio III + Sonic Studio Virtual Mixer
+- DTS® Sound Unbound
+- Porta (s) de saída S / PDIF óptica no painel traseiro
+- Sonic Radar III
+
+USB
+Processadores AMD RyzenTM de 3ª geração:
+4 x Portas USB 3.2 Gen 2
+AMD RyzenTM de 2ª geração / 2ª e 1ª geração AMD Ryzen ™ com processadores gráficos Radeon ™ Vega:
+4 x Portas USB 3.2 Gen 1
+chipset AMD X570:
+1 x Porta conector USB 3.2 Gen 2 do painel frontal
+chipset AMD X570:
+4 x Portas USB 3.2 Gen 2
+chipset AMD X570:
+6 x Portas USB 3.2 Gen 1
+chipset AMD X570:
+4 x porta USB 2.0 ( s)
+
+Recursos exclusivos
+Extreme Engine Digi +:
+- IR3555 PoweIRstage®
+- MicroFine All Chokes
+- Capacitores metálicos pretos de 10K
+Kit ROG Extreme OC:
+- OptiMem III
+- Botão de inicialização segura
+- Modo lento
+- Modo LN2
+Extreme Tweaker
+ROG
+Software exclusivo de proteção de E / S Shield pré-montado patenteado ROG
+- Sonic Studio III + Sonic Studio Virtual Mixer
+- RAMCache III
+- RAMDisk
+- CPU-Z
+- GameFirst V
+- Sonic Radar III
+
+Recursos especiais
+Processadores inteligentes duplos ASUS Otimização de 5 vias por processadores inteligentes duplos 5:
+- A chave de ajuste de otimização de 5 vias consolida perfeitamente TPU, EPU, DIGI + VRM, Fan Expert 4 e Turbo App
+AURA:
+- Aura Lighting Effects Synchronization com dispositivos ASUS ROG compatíveis
+ASUS Recursos exclusivos :
+- USB BIOS Flashback ®
+- AI Suite 3
+- Carregador Ai
+- ASUS CrashFree BIOS 3
+- Caixa de arsenal
+- ASUS NODE: interface de controle de hardware
+- ASUS EZ Flash 3
+- ASUS CPR (recuperação de parâmetros da CPU)
+- Botão Limpar CMOS
+- Botão Reset
+- Botão Iniciar - Botão
+ReTry
+ASUS Q-Design:
+- Código Q da ASUS
+- ASUS Q-LED (CPU, DRAM, VGA, LED do dispositivo de inicialização)
+- ASUS Q-Slot
+- ASUS Q-DIMM
+- ASUS Q-Connector
+
+Painel Traseiro
+1 x Saída S / PDIF óptica
+1 x Botão (s) Clear CMOS
+1 x Porta LAN 2.5G anti-surto (RJ45)
+1 x Botão (s) USB BIOS Flashback ®
+5 x Conectores de áudio dourados
+4 x USB 3.2 Gen 1 portas (até 5 Gbps)
+8 x portas USB 3.2 Gen 2 (até 10 Gbps)
+() porta LAN anti-surto (RJ45)
+
+Painel Interno
+2 x Conectores Aura RGB Strip
+2 x Conectores endereçável (s) 2 (s) 2 (s) conector (es) USB 2.0 suporte (s) adicional (is) 4 portas (s) USB 2.0
+1 x Soquete M.2 3 com chave M, tipo 2242/2260 Os dispositivos de armazenamento / 2280 suportam
+1 x M.2 soquete 3 com chave M, tipo 2242/2260/2280/22110 os dispositivos de armazenamento suportam
+1 x Conector (es) TPM
+8 x Conector (es) SATA 6Gb / s
+1 x Conector do ventilador da CPU s)
+1 x Conector (es) da CPU OPT
+3 x Conector (es) do chassi
+1 x Conector AIO_PUMP
+1 x Conector H_AMP do ventilador
+1 x W_PUMP + conector
+1 x Conector de alimentação EATX 12 V de 4 pinos
+1 x Conector de alimentação EATX de 12 pinos (s)
+1 x Conector 8 pinos de alimentação de 12V EATX
+1 x Conector do painel frontal de áudio (s) (AAFP)
+1 x Interruptor (es) de modo lento
+1 x Botão (s) de redefinição
+1 x Conector (es) de nó
+1 x Jumper (s) do modo LN2
+1 x Botão de inicialização segura
+1 x Botão ReTry
+1 x Conector do painel do sistema
+1 x Conector T_Sensor
+1 x Conectores W_IN
+1 x Conectores W_OUT
+1 x Conectores W_FLOW
+1 x Botão Iniciar
+1 x Conector de alto-falante
+1 x Conector USB 3.2 Gen 2 (até 10 Gbps)
+1 x Conector USB 3.2 Gen 1 (até 5 Gbps) suporta 2 portas USB adicionais
+
+BIOS
+ROM Flash de 256 Mb, UEFI AMI BIOS, PnP, WfM2.0, SM BIOS 3.2, ACPI 6.2
+
+Gerenciamento
+WOL, PXE
+
+Sistema Operacional
+Windows® 10 de 64 bits
+
+Formato
+ATX, 20.5 x 24.4 cm

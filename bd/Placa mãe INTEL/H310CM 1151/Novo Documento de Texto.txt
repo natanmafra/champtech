@@ -1,0 +1,280 @@
+Características:
+
+Marca: AsRock
+
+Modelo: H310CM-HG4
+
+
+
+Especificações:
+
+ 
+
+CPU:
+
+- Suporta Processadores Intel® Core™ de 8ª e 9ª Geração (Socket 1151)
+
+- Suporta CPU de até 95W
+
+- Design Power Phase 4
+
+- Suporta Tecnologia Intel® Turbo Boost 2.0
+
+ 
+
+Chipset:
+
+- Intel® H310
+
+ 
+
+Memória:
+
+- Tecnologia de memória DDR4 Dual Channel
+
+- 2 x slots DDR4 DIMM
+
+- Suporta DDR4 2666 / 2400 / 2133 não-ECC, sem-buffer
+
+- Capacidade máxima de memória do sistema: 32 GB
+
+- Suporta Intel® Extreme Memory Profile (XMP) 2.0
+
+- 15µ de Ouro nos Contatos dos Slots DIMM
+
+ 
+
+* Devido a limitações do sistema operacional, o tamanho da memória pode ser menor que 4GB para a reserva de uso do sistema no Windows® 32-bit. No Windows® 64-bit com CPU de 64-bit, não existe esta limitação
+
+ 
+
+BIOS:
+
+- BIOS Legal 128Mb AMI UEFI com suporte a interface gráfica Multi-idioma
+
+- Compatível com eventos de despertar ACPI 6.0
+
+- Suporta SMBIOS 2.7
+
+- DRAM, PCH 1.05V Multi-ajuste de Voltagem
+
+ 
+
+Gráficos:
+
+- Suporta Gráficos Intel® UHD Integrados : Intel® Quick Sync Video com AVC, Codificação1 Total por Hardware em MVC (S3D) e MPEG-2, Intel® InTru™ 3D, Intel® Clear Tecnologia de Vídeo HD, Intel® Insider™, Gráficos Intel® UHD
+
+- DirectX 12
+
+- Codificação/Decodificação HWA: AVC/H.264, HEVC/H.265 8-bit, HEVC/H.265 10-bit, VP8, VP9 8-bit, VP9 10-bit (Decodificar apenas), MPEG2, MJPEG, VC-1
+
+- Dupla Saída Gráfica: Suporta Portas D-Sub e HDMI by independent display controllers
+
+- Suporta Tecnologia HDMI 1.4 com resolução máxima de 4K x 2K (4096x2160) @ 30Hz
+
+- Suporta D-Sub com resolução máxima de 1920x1200 @ 60Hz
+
+- Suporta Sincronismo Automático de Lábios, Cores Profundas (12bpc), xvYCC e HBR (High Bit Rate Audio / Áudio de Alto Bit Rate) com HDMI 1.4 Port (Monitor HDMI compatível necessário)
+
+- Suporta HDCP 2.2 com HDMI 1.4 Port
+
+- Suporta 4K Ultra HD (UHD) playback com HDMI 1.4 Port
+
+ 
+
+* Gráficos Intel® UHD Embutidos e a saída VGA só podem ser usadas com processadores que possuem GPU integrada
+
+ 
+
+Áudio:
+
+- Áudio HD 7.1 Canais (Codec de Áudio Realtek ALC887)
+
+- Suporta Surge Protection
+
+- Capacitores de Áudio ELNA
+
+ 
+
+* Para configurar o Áudio HD 7.1 Canais, é necessário utilizar um modulo de áudio HD do painel frontal e ativar o recurso áudio de multi-canal no driver de áudio
+
+ 
+
+Rede:
+
+- Rede PCIE 1x Gigabit 10/100/1000 Mb/s
+
+- 1 x Realtek RTL8111H
+
+- Suporta Wake-On-LAN
+
+- Suporta Proteção Contra Raios/ESD
+
+- Suporta Eficiencia de Energia Ethernet 802.3az
+
+- Suporta PXE
+
+ 
+
+Slots:
+
+- 1 x slot PCI Express 3.0 x16 (PCIE2: modo x16)
+
+- 1 x slot PCI Express 2.0 x1
+
+ 
+
+* SSD NVMe como discos de boot
+
+ 
+
+Armazenamento:
+
+- 4 x conectores SATA3 6.0 Gb/s, suportando NCQ, AHCI e Hot Plug
+
+ 
+
+Conectores:
+
+- 1 x Conector TPM
+
+- 1 x Conector de Speaker e Intrusão do Gabinete
+
+- 1 x conector de Ventoínha da CPU (4-pin)*
+
+- 1 x Conector de Ventoinha de Gabinete/Bomba D’água (4-pin) (Controle de Velocidade de Ventoinhas Inteligente)**
+
+- 1 x Conector de energia ATX 24 pinos
+
+- 1 x Conector de Energia 12V 8 pinos
+
+- 1 x Conector de painel de áudio frontal
+
+- 1 x Conector USB 2.0 (suporta 2 portas USB 2.0) (Suporta Proteção Contra ESD)
+
+- 1 x USB 3.2 Gen1 Header (Suporta 2 USB 3.2 Gen1 ports) (Suporta Proteção Contra ESD)
+
+ 
+
+*O Conector de Ventoinha da CPU suporta a ventoinha da CPU com potência máxima de 1A (12W)
+
+*O Conector de Ventoinha de Gabinete/Bomba D’água suporta ventoinha de water cooler de no máximo 2A (24W). CHA_FAN1 / WP podem detectar automaticamente se uma ventoinha de 3-pinos ou 4-pinos está em uso
+
+ 
+
+Painel Traseiro:
+
+- 1 x Porta de Mouse / Teclado PS/2
+
+- 1 x Porta D-Sub
+
+- 1 x Porta HDMI
+
+- 4 x portas USB 2.0 (Suporta Proteção Contra ESD)
+
+- 2 x USB 3.2 Gen1 Ports (Suporta Proteção Contra ESD)
+
+- 1 x Porta de Rede RJ-45 com LED (LED de ACESSO E LED de VELOCIDADE)
+
+- Conectores de Áudio HD: Entrada de Linha / Alto-Falante Frontal / Microfone
+
+ 
+
+Software e UEFI:
+
+ 
+
+Software:
+
+- ASRock A-Tuning
+
+- ASRock XFast LAN
+
+ 
+
+UEFI:
+
+- ASRock EZ Mode
+
+- UEFI Full HD ASRock
+
+- Meus Favoritos ASRock na UEFI
+
+- ASRock Instant Flash
+
+- ASRock Internet Flash
+
+ 
+
+* Estes utilitários podem ser baixados na APP Shop
+
+ 
+
+Monitor de Hardware:
+
+- Sensor de Temperatura: CPU, Gabinete/Ventoinhas da Bomba de Água
+
+- Tacômetro de Ventoinha:: CPU, Gabinete/Ventoinhas da Bomba de Água
+
+- Quiet Fan (Ajuste automático das ventoinhas do gabinete de acordo com a temperatura do CPU): CPU, Gabinete/Ventoinhas da Bomba de Água
+
+- Controle Multivelocidade de Ventoinha: CPU, Gabinete/Ventoinhas da Bomba de Água
+
+- Detecção CASE OPEN
+
+- Monitoramento de Voltagem: +12V, +5V, +3.3V, CPU Vcore
+
+ 
+
+Formato:
+
+- Formato Micro ATX: 7.5-in x 7.4-in, 19.1 cm x 18.8 cm
+
+- Design com Capacitores Sólidos
+
+ 
+
+SO:
+
+- Microsoft® Windows® 10 64-bit
+
+ 
+
+Certificações:
+
+- FCC, CE
+
+- Pronta para ErP/EuP (Necessário fonte de alimentação pronta para ErP/EuP)
+
+ 
+
+Recursos únicos ASRock Super Alloy:
+
+- PCB Black Safira
+
+- PCB de Fibra de Vidro de Alta Densidade
+
+- ASRock Full Spike Protection (para todas as Portas USB, de Áudio, de Rede)
+
+- Live Update & APP Shop ASRock
+
+ 
+
+Conteúdo da embalagem:
+
+- Guia Rápido de Instalação
+
+- CD de Suporte
+
+- Protetor E/S
+
+- 2 x Cabos de dados SATA
+
+
+Garantia
+1 ano de garantia
+(9 meses de garantia contratual junto ao fabricante + 3 meses referentes à garantia legal, nos termos do artigo 26, II, do Código de Defesa do Consumidor)
+
+
+Peso
+650 gramas (bruto com embalagem)

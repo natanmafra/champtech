@@ -1,0 +1,232 @@
+Placa-Mãe GIGABYTE p/ Intel LGA 1151 mATX B360M GAMING HD DDR4
+
+
+
+ESPECIFICAÇÕES TÉCNICAS
+
+Características:
+
+- Marca: Gigabyte
+
+- Modelo: B360M GAMING HD
+
+ 
+
+Especificações:
+
+ 
+
+CPU:
+
+- Suporte para 8ª Geração Intel processadores Core i7 / Intel Core i5 / Intel Core i3 / Intel Pentium processadores / Intel Celeron processadores no pacote LGA1151
+
+- Cache L3 varia com o CPU
+
+ 
+
+Chipset:
+
+- Intel Chipset B360 Express
+
+ 
+
+Memória:
+
+- 2x Soquetes DDR4 DIMM suportando até 32 GB de memória do sistema
+
+- Arquitetura de memória dual channel
+
+- Suporte para módulos de memória DDR4 2666/2400/2133 MHz
+
+- Suporte para módulos de memória DIMM 1Rx8 / 2Rx8 sem buffer ECC (operam em modo não-ECC)
+
+- Suporte para módulos de memória DIMM não-bufferizados 1Rx8 / 2Rx8 / 1Rx16 não-ECC
+
+- Suporte para módulos de memória Extreme Memory Profile (XMP) 
+
+* Para apoiar 2.666 MHz ou memória XMP, você deve instalar um 8ª Geração Intel Núcleo i7 / i5.
+
+(Por favor, consulte "Lista de Suporte de Memória" para mais informações.)
+
+ 
+
+Gráficos Onboard:
+
+- Processador gráfico integrado Intel HD Graphics
+
+- 1x Porta D-Sub, suportando uma resolução máxima de 1920x1200 @ 60 Hz
+
+- 1x Porta HDMI, suportando uma resolução máxima de 4096x2160 @ 30 Hz 
+
+*Suporte para HDMI 1.4 versão e HDCP 2.2.
+
+- Memória compartilhada máxima de 1 GB
+
+ 
+
+Áudio:
+
+- Codec Realtek ALC887
+
+- Áudio de alta definição
+
+- 2 / 4 / 5.1 / 7.1-channel
+
+* Para configurar o áudio de 7.1 canais, é necessário usar um módulo de áudio do painel frontal de HD e ativar o recurso de áudio multicanal através do driver de áudio.
+
+ 
+
+LAN:
+
+- Chip LAN Realtek GbE (10/100/1000 Mbit)
+
+ 
+
+Slots de Expansão:
+
+- 1x Slot PCI Express x16, rodando a x16
+
+- 1x Slot PCI Express x1 
+
+(todos os slots PCI Express estão em conformidade com o padrão PCI Express 3.0)
+
+ 
+
+Interface de armazenamento Chipset:
+
+- 1x Conector M.2 (soquete 3, tecla M, tipo 2242/2260/2280 SATA e suporte SSD PCIe x4 / x2)
+
+- 4x Conectores SATA de 6 Gb/s
+
+* Consulte "1-7 Conectores Internos" para os avisos de instalação para os conectores M.2 e SATA.
+
+- Intel Optane Memória Ready
+
+ 
+
+USB:
+
+
+
+Chipset:
+
+- 6x Portas USB 3.1 Gen 1 (4 portas no painel traseiro, 2 portas disponíveis através do conector USB interno)
+
+- 6x Portas USB 2.0 / 1.1 (2 portas no painel traseiro, 4 portas disponíveis através dos conectores USB internos)
+
+ 
+
+Conectores Internos de I/O:
+
+- 1x Conector de alimentação principal ATX de 24 pinos
+
+- 1x Conector de alimentação ATX 12V de 8 pinos
+
+- 1x Comunicação do ventilador da CPU
+
+- 1x Comunicação do ventilador do sistema
+
+- 4x Conectores SATA de 6 Gb / s
+
+- 1x M.2 soquete 3 conectores
+
+- 1x Comunicação do painel frontal
+
+- 1x Comunicação de áudio do painel frontal
+
+- 1x Conector USB 3.1 Gen 1
+
+- 2x Comunicações USB 2.0 / 1.1
+
+- 1x Comunicação do Trusted Platform Module (TPM) (2x6 pinos, apenas para o módulo GC-TPM2.0_S)
+
+- 1x Comunicação de porta serial
+
+- 1x Jumper Clear CMOS
+
+ 
+
+Conectores do painel traseiro:
+
+- 1x Porta de mouse PS/2
+
+- 1x Porta do teclado PS/2
+
+- 1x Porta D-Sub
+
+- 1x Porta HDMI
+
+- 4x Portas USB 3.1 Gen 1
+
+- 2x Portas USB 2.0 / 1.1
+
+- 1x Porta RJ-45
+
+- 3x Tomadas de áudio
+
+ 
+
+Controlador I / O:
+
+- Chip Controlador ITE I / O
+
+ 
+
+Monitoramento H / W:
+
+- Detecção de tensão
+
+- Detecção de temperatura
+
+- Detecção de velocidade do ventilador
+
+- Aviso de superaquecimento
+
+- Aviso de falha do ventilador
+
+- Controle de velocidade do ventilador
+
+*Se a função de controle de velocidade do ventilador é suportada dependerá do cooler que você instalar.
+
+ 
+
+BIOS:
+
+- 1x 128 Mbit de flash
+
+- Uso do BIOS UEFI AMI licenciado
+
+- PnP 1.0a, DMI 2.7, WfM 2.0, SM BIOS 2.7, ACPI 5.0
+
+ 
+
+Sistema Operacional:
+
+- Suporte para o Windows 10 de 64 bits
+
+ 
+
+Fator de Forma:
+
+- Forma: Micro ATX
+
+- Dimensão: 22.6 x 18.5 cm
+
+ 
+
+Conteúdo da Embalagem:
+
+- 1x Placa Mãe Gigabyte
+
+- 1x Driver de Instalação
+
+- 1x Guia do Usuário
+
+
+Garantia
+12 meses de garantia
+(9 meses de garantia contratual junto ao fabricante + 3 meses referentes à garantia legal, nos termos do artigo 26, II, do Código de Defesa do Consumidor)
+
+
+Peso
+705 gramas (bruto com embalagem)

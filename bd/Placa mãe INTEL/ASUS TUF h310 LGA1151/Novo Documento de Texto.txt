@@ -1,0 +1,230 @@
+Placa-Mãe Asus TUF H310M-Plus Gaming/BR, Intel LGA 1151, mATX, DDR4
+
+Compatível com 8ª e 9ª geração de processadores Intel
+
+
+
+ESPECIFICAÇÕES TÉCNICAS
+
+Características: 
+
+- Marca: ASUS
+
+- Modelo: TUF H310M-PLUS GAMING
+
+ 
+
+Especificações:
+
+ 
+
+Processador:
+
+- Intel Socket 1151 para 9ª e 8ª geração de processadores Core i7/Core i5/Core i3/Pentium/Celeron
+
+- Suporta processadores Intel de 14 nm
+
+- Suporta a tecnologia Intel Turbo Boost 2.0
+
+* Suporta a tecnologia Intel Turbo Boost 2.0 dependendo do tipo do processador.
+
+ 
+
+Chipset:
+
+- Intel H310
+
+ 
+
+Memória:
+
+- 2x DIMM, máximo de 32GB, DDR4 2666/2400/2133 MHz Non-ECC, Un-buffered
+
+* Suporte Hyper DIMM depende das características físicas de cada CPU.
+
+* Consulte www.asus.com.br ou o manual do usuário para a lista de vendedores qualificados de memória.
+
+** DDR4 2666MHz e módulos de memória mais altos serão executados no máximo. 2666MHz em processadores Intel® 8th Gen. 6-core ou superior; DDR4 2400MHz e módulos de memória mais altos serão executados no máximo. 2400MHz em processadores Intel® 8ª Geração 4-core.
+
+ 
+
+Gráfico:
+
+- Processador Gráfico Integrado
+
+- Múltiplas saídas de vídeo: portas HDMI/D-Sub (VGA) 
+
+- Suporta VGA com resolução máxima de 1920 x 1200 @ 60 Hz
+
+- Suporta HDMI com resolução máxima de 4096 x 2160 @ 24 Hz / 2560 x 1600 @ 60 Hz
+
+- Máximo de memória compartilhada 1024 MB (Exclusivo para iGPU)
+
+- Suporta Intel InTru 3D, Quick Sync Video, Clear Video HD Technology, Insider
+
+ 
+
+Slots de expansão:
+
+
+
+Intel H310 Chipset:
+
+- 1 x PCIe 3.0/2.0 x16 (x16) 
+
+- 2 x PCIe 2.0 x1
+
+ 
+
+Armazenamento:
+
+
+
+Intel H310 Chipset:
+
+- 1 x M.2 3, com suporte para dispositivos de armazenamento tipo M Key 2242/2260/2280 (modo PCIE 2.0 x4 e SATA)
+
+- 4 x Porta(s) SATA 6Gb/s
+
+ 
+
+LAN:
+
+- 1x Gigabit LAN I219V
+
+- TUF LANGuard
+
+ 
+
+Áudio:
+
+- Realtek ALC887 com 7.1-Channel - CODEC de alta definição
+
+ 
+
+Recursos de áudio:
+
+- Proteção de Áudio: Garante precisão na separação analógica/digital e reduz a maioria das interferências multi-laterais.
+
+- Camadas de áudio PCB dedicadas: Camadas separadas para o canal direito e esquerdo para proteger a qualidade dos sinais sensíveis de áudio.
+
+- Capacitores de áudio premium japoneses: fornecem som quente, natural e imersivo com clareza e fidelidade excepcionais
+
+ 
+
+Portas USB:
+
+- Intel H310 chipset: 4 porta (s) USB 3.1 Gen 1 até 5Gbps (2 no painel traseiro, azul, conectores internos para mais 2 porta (s), tipo-A)
+
+- Intel H310 chipset: 6 porta(s) USB 2.0/1.1 (4 no painel traseiro, preta(s), conectores internos para mais 2 porta(s), Type-A)
+
+ 
+
+Sistema operacional suportado:
+
+- Windows® 10 64-bit
+
+ 
+
+Portas no painel Traseiro:
+
+- 1x PS/2 teclado (roxo)
+
+- 1x PS/2 mouse (verde)
+
+- 1x HDMI
+
+- 4x Portas USB 2.0 
+
+- 3x conector(es) de áudio
+
+- 2x USB 3.1 Gen 1 até 5Gbps
+
+- 1x VGA
+
+- 1x 5G LAN (RJ45) porta
+
+ 
+
+Painel Interno:
+
+- 1x entrada USB 3.1 Gen 1, com suporte a 2 portas USB 3.1 Gen 1 adicionais(19-pin)
+
+- 1x entrada USB 2.0, com suporte a 2 portas USB 2.0 adicional(s)
+
+- 1x conector para porta COM
+
+- 1x conector de ventoinha do processador (1 x 4 -pin)
+
+- 4x conectores SATA 6Gb/s
+
+- 1x conector de ventoinha do chassi (1 x 4 -pin)
+
+- 1x RGB Header(s)
+
+- 1x leitor externo(s) S/PDIF
+
+- 1x conector de força EATX de 24 pinos
+
+- 1x M.2 Socket 3 
+
+- 1x conector de áudio para o painel frontal (AAFP)
+
+- 1x painel do sistema 
+
+- 1x conector 8-pin EATX 12V Power 
+
+- 1x jumper Clear CMOS
+
+- 1x System panel connector
+
+- 1x Speaker connector
+
+ 
+
+BIOS:
+
+- 128 Mb Flash ROM, UEFI BIOS AMI, PnP, SM BIOS 3.1, ACPI 6.1, BIOS em vários idiomas, ASUS EZ Flash 3, CrashFree BIOS 3, Controle QFan F6, F3 Meus Favoritos, Log da Última Modificação, F12 PrintScreen e ASUS DRAM SPD (Serial Presença Detectar) informações de memória, F4 AURA ON / OFF, F9
+
+ 
+
+Gerenciamento:
+
+- WOL by PME, PXE
+
+ 
+
+Formato:
+
+- Tipo: mATX
+
+- Dimensão: 22.6 cm por 20.8 cm
+
+ 
+
+Conteúdo da Embalagem:
+
+- 1x Placa Mãe ASUS
+
+- 2x Cabos SATA 6Gb/s
+
+- 1x DVD de suporte
+
+- 1x Manual do usuário
+
+- 1x I/O Shield
+
+- 1x Pacote de parafuso M.2 
+
+- 1x Etiqueta do jogo do TUF
+
+- 1x TUF Certificado
+
+
+Garantia
+12 meses de garantia
+(9 meses de garantia contratual junto ao fabricante + 3 meses referentes à garantia legal, nos termos do artigo 26, II, do Código de Defesa do Consumidor)
+
+
+Peso
+755 gramas (bruto com embalagem)

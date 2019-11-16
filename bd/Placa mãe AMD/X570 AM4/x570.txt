@@ -1,0 +1,207 @@
+Especificações
+
+Marca
+ASRock
+
+Modelo
+X570 Phantom Gaming X DDR4
+
+Armadura de jogos
+Alimentação
+- Conectores de alimentação de alta densidade (24 pinos, 8 pinos e 4 pinos)
+Memória
+- Contato de ouro de 15µ nos slots DIMM
+Placa VGA
+- Contato de ouro 15µ no slot PCIe VGA (PCIE1)
+Internet
+- Phantom Gaming 2.5G LAN
+- Intel ® LAN
+Cooling
+- Dissipador de calor de liga de alumínio XXL
+Áudio de design de tubo de calor
+- Creative Sound Blaster ™ Cinema 5
+
+Recursos Únicos
+ASRock USB 3.2 Gen2
+- ASRock Painel Frontal Tipo C USB 3.2 Gen2 Header (10 Gb / s)
+- Porta ASRock USB 3.2 Gen2 Tipo A (10 Gb / s)
+- Porta ASRock USB 3.2 Gen2 Tipo-C (10 Gb / s)
+ASRock Super Alloy
+- Dissipador de Liga de Alumínio XXL
+- Premium 60A Power Choke
+- 50A Dr.MOS
+- Premium Memory Alloy Choke (Reduz 70% de perda de núcleo em comparação com ferro em pó)
+- Tampas Combo (Nichicon 12K Black Caps)
+- Nichicon 12K Black Caps ( 100% Japão fez capacitores de polímero condutivo de alta qualidade)
+- I / O Armor
+- PCB preto fosco
+- PCB de tecido de alta densidade de vidro
+- 2oz PCB de cobre
+ASRock Phantom Gaming 2.5G LAN
+Intel ® 802.11ax WiFi
+ASRock Slot de aço Gen4
+Cobertura total ASRock M.2 Dissipador
+ASRock Hyper M.2 (PCIe Gen4x4 e SATA3)
+ASRock Ultra USB Power
+Proteção ASRock Full Spike (para todas as portas USB, de áudio, LAN)
+ASRock Live Update e APP Shop
+
+CPU
+Suporta processadores AMD AM4 soquete Ryzen ™ 2000 e 3000
+Intersil Digital PWM
+Projeto Power Phase 14
+Capaz de fornecer 300W extras para CPU
+Suporta ASRock Hyper BCLK Engine II
+
+Chipset
+AMD Premium X570
+
+Memória
+Tecnologia de Memória Dual Channel DDR4
+4 x Slots DDR4 DIMM
+CPUs AMD Ryzen (Matisse) suportam DDR4 4666+ (OC) / 4400 (OC) / 4300 (OC) / 4266 (OC) / 4200 (OC) / 4133 ( OC) / 4000 (OC) / 3866 (OC) / 3800 (OC) / 3733 (OC) / 3600 (OC) / 3466 (OC) / 3200/2933/2667/2400/2133 ECC e não-ECC, não- memória buffer
+CPUs da série AMD Ryzen (Pinnacle Ridge) suportam DDR4 3600+ (OC) / 3466 (OC) / 3200 (OC) / 2933/2667/2400/2133 ECC e memória não-ECC sem buffer
+AMD CPUs da série Ryzen (Picasso) suportam memória sem buffer, não-ECC, DDR4 3466+ (OC) / 3200 (OC) / 2933/2667/2400/2133
+máx. capacidade de memória do sistema: 128GB
+Contato de ouro de 15µ em slots DIMM
+
+BIOS
+256Mb AMI UEFI Legal BIOS com suporte a GUI
+Suporta "Plug and Play"
+Eventos de ativação de conformidade com ACPI 5.1
+Suporta jumperfree
+Suporte a SMBIOS 2.3
+CPU, CPU VDDCR_SOC, DRAM, VPPM, PREM VDD_CLDO, PERM VDDCR_SOC, + 1.8V VDDP, Multi-ajuste de Voltagem
+
+Gráfico
+Gráficos integrados da série AMD Radeon ™ Vega na série Ryzen APU *
+DirectX 12, Pixel Shader 5.0
+Padrão de memória compartilhada 2GB. A memória compartilhada máxima suporta até 16 GB.
+Suporta HDMI 2.0 com max. resolução de até 4K x 2K (4096x2160) a 60Hz
+Suporta Auto Lip Sync, Deep Colour (12bpc), xvYCC e HBR (High Bit Rate Audio) com portas HDMI 2.0 (é necessário monitor HDMI compatível)
+Suporta HDR (High Dynamic Range ) com HDMI 2.0
+Suporta HDCP 2.2 com porta HDMI 2.0
+Suporta reprodução 4K Ultra HD (UHD) com porta HDMI 2.0
+Suporta Microsoft ® PlayReady
+
+Áudio
+Áudio de Áudio 7.1CH CH com Protecção de Conteudo (Codec de Áudio Realtek ALC1220)
+Suporta Blu-ray Premium - Suporta Protecção contra Surtos
+Bonés de Áudio Nichicon Fine Gold Series
+Amplificador de Auricular NE5532 Premium para Conector de Áudio do Painel Frontal (Suporta até 600 Ohm)
+Pure Power-In
+Tecnologia Direct Drive
+Blindagem Isolada PCB
+Detecção de Impedância na porta Rear Out
+Camadas Individuais PCB para Canal de Áudio R / L
+Entradas de Áudio
+Douradas
+Conector de Áudio 15µ Gold - Suporta Creative Sound Blaster ™ Cinema 5
+
+LAN
+1 x 2.5 Gigabit LAN 10/100/1000/2500 Mb / s (Dragon RTL8125AG):
+Suporta Software de Rede Fantasma para Jogos
+Smart Auto Ajuste de Controle de Banda
+UI Visual User Friendly
+Estatísticas de Uso de Rede Visual
+Configuração Padrão Otimizada para Jogo, Navegador e Transmissão Modos
+Usuário personalizado Controle Prioridade
+Suporta Wake-On-LAN
+Suporta relâmpago / ESD
+Suporta Energia 802.3az Ethernet eficiente
+Suporta PXE 1 x Intel ® Gigabit LAN 10/100/1000 Mb / s (1 x Intel ® I211AT):
+Suporta Wake-On-LAN
+Suporta Proteção
+Contra Raios / ESD - Suporta Eficiência Energética Ethernet 802.3az
+Suporta PXE
+
+Rede sem Fio
+Módulo WiFi Intel® 802.11ax
+Suporta IEEE 802.11a / b / g / n / ax
+Suporta Banda dupla (2.4 / 5 GHz)
+Suporta WiFi6 802.11ax (2.4Gbps)
+2 x Antenas para suportar 2 (Transmissão) x 2 (Receber) tecnologia de diversidade
+Suporta Bluetooth 5.0 + Classe de alta velocidade II
+Suporta MU-MIMO
+
+Slots de Expansão
+CPUs AMD Ryzen (Matisse)
+3 x Slots PCI Express 4.0 x16 (PCIE1 / PCIE3 / PCIE5: simples a x16 (PCIE1); dual a x8 (PCIE1) / x8 (PCIE3); triplo a x8 (PCIE1) / x8 ( PCIE3) / x4 (PCIE5)
+CPUs da série AMD Ryzen (Pinnacle Ridge)
+3 x Slots PCI Express x16 (PCIE1 / PCIE3 / PCIE5: único no Gen3x16 (PCIE1); dual no Gen3x8 (PCIE1) / Gen3x8 (PCIE3); triplos em Gen3x8 (PCIE1) / Gen3x8 (PCIE3) / Gen4x4 (PCIE5))
+CPUs da série AMD Ryzen (Raven Ridge) (Picasso)
+1 x PCI Express 3.0 x16 (único em x8 (PCIE1))
+1 x PCI Slot Express 4.0 x16 (single em x4 (PCIE5))
+2 x Slots PCI Express 4.0 x1
+Suporta AMD Quad CrossFireX ™, 3-Way CrossFireX ™ e CrossFireX ™
+Suporta NVIDIA® Quad SLI ™ e SLI ™
+Suporta NVIDIA ® NVLink ™ com dual NVIDIA ® GeForce RTX cartões gráficos das séries
+1 x Vertical M.2 Socket (Chave E) com o módulo WiFi-802.11ax empacotado (na parte traseira I / O)
+Contato de ouro de 15µ no slot VGA PCIe (PCIE1)
+
+Armazenamento
+8 x Conectores SATA3 de 6,0 Gb / s, suporte a RAID (RAID 0, RAID 1 e RAID 10), NCQ, AHCI e Hot Plug
+1 x Soquete Hyper M.2 (M2_1), suporta o tipo de chave M 2242/2260/2280 Módulo M.2 SATA3 de 6,0 Gb / s e módulo M.2 PCI Express até Gen4x4 (64 Gb / s) (com Matisse) ou Gen3x4 (32 Gb / s) (com Pinnacle Ridge e Picasso) *
+1 x Hyper M .2 Soquete (M2_2), suporta o tipo M Key 2260/2280 M.2 módulo PCI Express até Gen4x4 (64 Gb / s)
+1 x Soquete Hyper M.2 (M2_3), suporta o tipo de chave M 2230/2242 / 2260/2280/22110 M.2 SATA3 Módulo de 6,0 Gb / s e módulo M.2 PCI Express até Gen4x4 (64 Gb / s)
+
+Conectores Internos
+1 x SPI TPM Header
+1 x LED Power e Speaker Header
+1 x AMD Fan LED Header
+1 x LED RGB Header
+1 x LED Addresser
+1 x CPU Fan Connector (4 pinos)
+1 x CPU / Conector do Ventoinha da Bomba de Água (4 pinos) (Controle Inteligente da Velocidade do Ventoinha)
+4 x Conectores do Ventoinha da Bomba de Água / Chassi (4 pinos) (Controle Inteligente da Velocidade do Ventoinha)
+1 x Conector de alimentação ATX de 24 pinos (conector de alimentação de alta densidade)
+1 x Conector de alimentação de 12 pinos de 12V (conector de alimentação de alta densidade)
+1 x Conector de alimentação de 4 pinos de 12V (conector de alimentação de alta densidade)
+1 x Conector de áudio do painel frontal (conector de áudio de 15µ Gold)
+1 x Conector de LED USB com Ventoinha AMD
+1 x Conector Thunderbolt ™ AIC (5 pinos) Apenas cartão ASRock Thunderbolt ™ AIC)
+2 x USB 2.0 Headers (Suporta 4 portas USB 2.0) (Suporta proteção ESD)
+1 x USB 3.2 Gen1 Header (Suporta 2 portas USB 3.2 Gen1) (Suporta proteção ESD)
+1 x Painel Frontal Tipo C USB 3.2 Gen2 Header (suporta proteção contra ESD)
+1 x Dr. Debug com LED
+1 x Botão liga / desliga com LED
+1 x Botão Reset com LED
+1 x Botão Clear CMOS
+
+https://www.pichau.com.br/placa-mae-asrock-x570-phantom-gaming-x-ddr4-socket-am4-chipset-amd-x570
+
+Painel Traseiro
+2 x Portas de antena
+1 x Porta PS / 2 de mouse / teclado
+1 x Porta HDMI
+1 x Porta de saída SPDIF óptica
+1 x Porta USB 3.2 Gen2 tipo-A (10 Gb / s) (suporta a proteção ESD)
+1 x USB 3.2 Gen2 tipo C porta (10 Gb / s) (suporta proteção ESD)
+6 x Portas USB 3.2 Gen1 (suporta proteção ESD)
+2 x Portas LAN RJ-45 com LED (LED ACT / LINK e LED SPEED )
+1 botão Limpar CMOS
+1 x Botão Flashback da BIOS
+Entradas de áudio HD: Alto-falante traseiro / Central / Baixo / Entrada de linha / Alto-falante / Microfone frontal (Gold Audio Jacks)
+
+Software e UEFI
+Software
+- ASRock Phantom Gaming LAN Software
+- ASRock Polychrome SYNC
+- ASRock XFast LAN
+UEFI
+- ASRock Full HD UEFI
+- ASRock Instant Flash
+- Instalador ASRock Easy RAID
+
+Monitor de hardware
+Sensores de Temperatura: CPU, CPU / Bomba de Água, Chassis, Chassis / Ventoinhas da Bomba de Água
+Tacômetro de Ventoinha: CPU, CPU / Bomba de Água, Chassis, Chassis / Ventoinhas da Bomba de Água
+Ventoinha Silencioso (Ajuste automático da velocidade do Ventoinha pelo CPU): CPU, CPU / Bomba de Água, Chassis, Chassis / Ventoinhas da Bomba de Água
+Ventoinha Controle Multi-Velocidade: CPU, CPU / Bomba de Água, Chassis, Chassis / Ventoinhas da Bomba de Água
+Monitoramento de tensão: + 12V, + 5V, + 3.3V, CPU Vcore, CPU VDDCR_SOC, DRAM, VPPM, PRED VDDCR_SOC, + 1.8V, VDDP
+
+Sistema Operacional
+Microsoft ® Windows ® 10 de 64 bits
+
+Formato
+ATX, 30,5 x 24,4 cm
